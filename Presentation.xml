@@ -14,9 +14,9 @@
   </Description>
   <Document RemoveSpeakerNotes="true">.\SQLReporting.pptx</Document>
   <Title>Windows Azure SQL Reporting</Title>
-  <Version>2.0.2</Version>
+  <Version>2.0.3</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
-     <Property Name="Filter" Value="Foundation" />
+    <Property Name="Filter" Value="Foundation" />
   </CustomProperties>
 </Presentation>
