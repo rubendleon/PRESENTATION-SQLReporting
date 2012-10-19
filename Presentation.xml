@@ -12,9 +12,9 @@
   <Description>
     Advanced presentation discussing architecture, Features and scenarios for Windows Azure SQL Reporting.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\SQLReporting.pptx</Document>
+  <Document RemoveSpeakerNotes="false">.\SQLReporting.pptx</Document>
   <Title>Windows Azure SQL Reporting</Title>
-  <Version>2.0.3</Version>
+  <Version>2.0.4</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation" />
